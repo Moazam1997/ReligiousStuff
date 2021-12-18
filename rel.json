@@ -1,5 +1,8 @@
-﻿{
-    "id": "1",
-    "Name": "Get_Started_With_Smallpdf.pdf"
+{
+    "Id" : "1",
+    "Name" : "Get_Started_With_Smallpdf.pdf",
+    "Link" : "https://moazam1997.github.io/ReligiousStuff/rel.json",
+    "Date" : "18-12-2021",
+    "Pages" : "1"
 
 }
