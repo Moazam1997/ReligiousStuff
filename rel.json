@@ -1,8 +1,8 @@
 {
-    "Id" : "1",
-    "Name" : "Get_Started_With_Smallpdf.pdf",
-    "Link" : "https://moazam1997.github.io/ReligiousStuff/rel.json",
-    "Date" : "18-12-2021",
-    "Pages" : "1"
+    "id" : "1",
+    "name" : "Get_Started_With_Smallpdf.pdf",
+    "link" : "https://moazam1997.github.io/ReligiousStuff/rel.json",
+    "date" : "18-12-2021",
+    "pages" : "1"
 
 }
